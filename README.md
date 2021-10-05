@@ -1,0 +1,1 @@
+# Adapter_Design_Pattern_in_Typescript
