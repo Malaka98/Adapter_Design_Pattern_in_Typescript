@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "name": "TypeScript Playground Export",
+  "description": "TypeScript playground exported Sandbox",
+  "dependencies": {
+    "typescript": "4.4.2"
+  }
+}

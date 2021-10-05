@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "name": "typescript-playground-export-forked",
+  "description": "TypeScript playground exported Sandbox",
+  "dependencies": {
+    "typescript": "4.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
